@@ -4,7 +4,7 @@ package practicaclase02pilas;
 //Solo puedo COLOCAR elementos en la parte superior (Push)
 //Solo puedo ELIMINAR elementos en la parte superior (Pop)
 //Teoricamente solo tenemos acceso al elemento que esta arriba (Top)
-//FIFO First In First Out
+//LIFO Last In First Out
 
 public class Main {
 
